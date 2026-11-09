@@ -2,7 +2,7 @@
 
 **Android Developer** · Kotlin · Jetpack Compose · Real-time & platform-level Android
 
-I build enterprise Android applications: real-time messaging, live video, location tracking, and device management. Since 2025 I have been Android Team Lead of a two-person team, owning architecture decisions, library selection, and code review.
+I build enterprise Android applications: real-time messaging, live video, location tracking, and device management. Since 2025 I have been Android Team Lead, owning architecture decisions, library selection, and code review.
 
 My production work is private to client organizations, so it is not on GitHub. The public repository below shows how I approach an Android client end to end.
 
