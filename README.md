@@ -30,7 +30,7 @@ My production work is private to client organizations, so it is not on GitHub. T
 
 ### [AndroidTaskManager](https://github.com/ArminYousefi/AndroidTaskManager)
 
-A multi-user, Jira/Trello-style task board. Real-time sync over raw WebSocket, an offline-first client, token and refresh-token authentication, and drag-and-drop between columns.
+A multi-user, Jira/Trello-style task board. Real-time sync over raw WebSocket, an offline-first client.
 
 ## Contact
 
