@@ -1,47 +1,38 @@
-Hi there 👋, I'm Armin
+# Armin Yousefi
 
-💻 Android Developer | Kotlin & Java Enthusiast | Problem Solver
+**Android Developer** · Kotlin · Jetpack Compose · Real-time & platform-level Android
 
-I specialize in building modern, scalable, and user-friendly Android applications. With expertise in Kotlin, Java, and Jetpack Compose, I design intuitive UI/UX experiences and write clean, testable, and maintainable code.
+I build enterprise Android applications: real-time messaging, live video, location tracking, and device management. Since 2025 I have been Android Team Lead of a two-person team, owning architecture decisions, library selection, and code review.
 
-🌟 About Me
+My production work is private to client organizations, so it is not on GitHub. The public repository below shows how I approach an Android client end to end.
 
-📱 Professional in Android development, covering both UI and backend integration
+## What I work with
 
-🎨 Skilled in UI design with Jetpack Compose, continuously sharpening my skills
+| Area | Tools |
+|---|---|
+| Language | Kotlin (primary), Java |
+| UI | Jetpack Compose, Material 3, Navigation |
+| Architecture | Clean Architecture, MVVM, modularization, dependency injection with Hilt |
+| Async & data | Coroutines, Flow, Room, DataStore, Retrofit, OkHttp |
+| Real-time | SignalR, WebSocket, LiveKit |
+| Platform APIs | AccessibilityService, MediaProjection, foreground services, WorkManager, DevicePolicyManager, PackageInstaller, CameraX |
+| Testing & quality | JUnit, Mockito, UI Automator, LeakCanary, Android Studio Profiler |
 
-✅ Experienced in unit testing with mocks and UI automation tests to ensure high app quality
+## Selected problems I have solved (production, private)
 
-🧩 Known for finding simple solutions to complex problems
+- **Reliable messaging over SignalR:** acknowledgment and retry for undelivered messages, with server sequence numbers to keep message order.
+- **Cross-vendor AccessibilityService:** one implementation that behaves consistently across different OEM Android builds.
+- **Screen and audio/video streaming:** MediaProjection and LiveKit, including runtime-permission and foreground-service edge cases.
+- **Location quality:** Kalman-filter position estimation, with Mahalanobis distance and the Haversine formula to filter invalid fixes.
+- **On-demand feature delivery:** a plugin-based Android product where a small core app downloads modules and loads them at runtime from DEX files.
 
-🚀 Currently working on AndroidTaskManager – a task management app inspired by Jira and Trello
+## Featured project
 
-🤝 Open to collaborate with companies and contribute to interesting projects
+### [AndroidTaskManager](https://github.com/ArminYousefi/AndroidTaskManager)
 
-🛠️ Tech Stack
+A multi-user, Jira/Trello-style task board. Real-time sync over raw WebSocket, an offline-first client, token and refresh-token authentication, and drag-and-drop between columns.
 
-Languages: Kotlin, Java
+## Contact
 
-UI Frameworks: Jetpack Compose, XML Layouts
-
-Architecture & Tools: MVVM, Coroutines, Hilt, Room, WorkManager
-
-Testing: JUnit, Mockito, Espresso, UI Automator
-
-Version Control & CI/CD: Git, GitHub Actions, Gradle
-
-📂 Featured Project
-🔹 AndroidTaskManager
-
-A modern task management app designed for individuals and teams, offering features similar to Jira and Trello – but tailored for mobile-first productivity.(still developing)
-
-👉 Check out the repo
-(https://github.com/ArminYousefi/AndroidTaskManager)
-
-🌍 Connect With Me
-
-Telegram : https://t.me/Armin_androiddev
-
-Email : yousearmin@gmail.com
-
-✨ “Great apps are built not just with code, but with passion for solving problems.”
+- Email: [arminyousefi6@gmail.com](mailto:arminyousefi6@gmail.com)
+- Telegram: [@Armin_androiddev](https://t.me/Armin_androiddev)
