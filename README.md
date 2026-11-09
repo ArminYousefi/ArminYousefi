@@ -35,4 +35,3 @@ A multi-user, Jira/Trello-style task board. Real-time sync over raw WebSocket, a
 ## Contact
 
 - Email: [arminyousefi6@gmail.com](mailto:arminyousefi6@gmail.com)
-- Telegram: [@Armin_androiddev](https://t.me/Armin_androiddev)
